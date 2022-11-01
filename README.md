@@ -2,7 +2,7 @@
 Software para la creacion de horarios para la comunidad universitaria
 
 Qué hace éste proyecto?
-Con los cursos que se ofertan cada semestre que se cargan a la base de datos, se crea la mejor opción de horario en base a las preferencias que el usuario agrégue.
+Con los cursos que se ofertan cada semestre que se cargan a la base de datos, se crea la mejor opción de horario en base a las preferencias que los usuarios agreguen.
 
 Por qué es útil este proyecto?
 Ayudara a toda la comunidad universitaria, en un principio solo a los alumnos estudiantes de la facultad de Ciencias de la Computación 
