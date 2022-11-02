@@ -1,4 +1,5 @@
 # TuHorario
+¿Qué es esto?
 Software para la creacion de horarios para la comunidad universitaria
 
 Qué hace éste proyecto?
